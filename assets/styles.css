@@ -1,3 +1,8 @@
-#slideshow-image {
-	max-width: 600px;
+#slideshow-wrapper {
+	text-align: center;
 }
+
+#slideshow-image {
+	height: 500px;
+}
+
